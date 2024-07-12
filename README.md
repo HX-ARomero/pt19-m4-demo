@@ -1,78 +1,73 @@
-# Cohorte PT19 - Módulo 4 Especialidad Backend
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+</p>
 
-## TypeScript
+[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
+[circleci-url]: https://circleci.com/gh/nestjs/nest
 
-- [TypeScript - Documentación Oficial](https://www.typescriptlang.org/)
-- [TypeScript - Resumen](./readmes//TypeScript.md)
+  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
+    <p align="center">
+<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
+<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
+<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
+<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
+<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
+<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
+<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
+<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
+  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
+    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
+  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
+</p>
+  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
+  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Nest
+## Description
 
-- [Nest JS - Documentación Oficial](https://nestjs.com/)
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Varios
+## Installation
 
-- [Buenas prácticas](./readmes/GoodPrac-01.md)
-- [Visual Studio Code - Atajos](./readmes/vsc-01.md)
-- [Trivia-01](./readmes/Trivia-01.md)
-- [Trivia-02](./readmes/Trivia-02.md)
-- [Trivia-03](./readmes/Trivia-03.md)
-- [Trivia-04](./readmes/Trivia-04.md)
-- [Trivia-05](./readmes/Trivia-05.md)
-- [Trivia-06](./readmes/Trivia-06.md)
-- [Trivia-07](./readmes/Trivia-07.md)
+```bash
+$ npm install
+```
 
-## 01 - Backend Architecture
+## Running the app
 
-- [Link al resumen de la Clase](./readmes/NestJS-01.md)
+```bash
+# development
+$ npm run start
 
-## 02 - Nest JS Fundamentals I
+# watch mode
+$ npm run start:dev
 
-- [Link al resumen de la Clase](./readmes/NestJS-02.md)
+# production mode
+$ npm run start:prod
+```
 
-## 03 - Nest JS Fundamentals II
+## Test
 
-- [Link al resumen de la Clase](./readmes/NestJS-03.md)
+```bash
+# unit tests
+$ npm run test
 
-## 04 - Nest JS Routing
+# e2e tests
+$ npm run test:e2e
 
-- [Link al resumen de la Clase](./readmes/NestJS-04.md)
+# test coverage
+$ npm run test:cov
+```
 
-## 05 - Nest JS & TypeORM
+## Support
 
-- [Link al resumen de la Clase](./readmes/NestJS-05.md)
+Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
-## 06 - Nest JS Pipes
+## Stay in touch
 
-- [Link al resumen de la Clase](./readmes/NestJS-06.md)
+- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
+- Website - [https://nestjs.com](https://nestjs.com/)
+- Twitter - [@nestframework](https://twitter.com/nestframework)
 
-## 07 - Nest JS File Upload
+## License
 
-- [Link al resumen de la Clase](./readmes/NestJS-07.md)
-
-## 08 - Nest JS Authentication I
-
-- [Link al resumen de la Clase](./readmes/NestJS-08.md)
-
-## 09 - Nest JS Authentication II
-
-- [Link al resumen de la Clase](./readmes/NestJS-09.md)
-
-## 10 - Nest JS Testing
-
-- [Link al resumen de la Clase](./readmes/NestJS-10.md)
-
-## 11 - Nest JS Open API
-
-- [Link al resumen de la Clase](./readmes/NestJS-11.md)
-
-## 12 - Docker
-
-- [Link al resumen de la Clase](./readmes/NestJS-12.md)
-
-## 13 - Deployment
-
-- [Link al resumen de la Clase](./readmes/NestJS-13.md)
-
-## 14 - JavaScript III
-
-- [Link al resumen de la Clase](./readmes/NestJS-14.md)
+Nest is [MIT licensed](LICENSE).
