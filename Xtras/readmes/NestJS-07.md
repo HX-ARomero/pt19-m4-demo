@@ -30,7 +30,7 @@ export const CloudinaryConfig = {
 };
 ```
 
-### Ejemplo de Servicio
+### Ejemplo de Repositorio
 
 ```ts
 import { Injectable } from '@nestjs/common';

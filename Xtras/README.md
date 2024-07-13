@@ -20,6 +20,7 @@
 
 - [TypeScript - Documentación Oficial](https://www.typescriptlang.org/)
 - [TypeScript - Resumen](./readmes//TypeScript.md)
+- [TypeScript - Genéricos](./readmes/genericos.md)
 
 ## Nest
 
