@@ -1,4 +1,20 @@
-# Cohorte FT50 - Módulo 4 Especialidad Backend
+# Cohorte PT19 - Módulo 4 Especialidad Backend
+
+## Cronograma
+
+- Semana del 8 al 12 de Julio
+  - Jueves 11: NestJS & TypeORM
+  - Viernes 12: NestJS Pipes / File Upload
+- Semana del 15 al 19 de Julio
+  - Lunes 15: Autentication I & II
+  - Jueves 16: OpenAPI
+- Semana del 22 al 26 de Julio
+- Semana del 29 de Julio al 2 de Agosto
+  - Viernes 2 de Agosto - 20:30hs: Inicio de ventana aviso de corrección
+- Semana del 5 al 9 de Agosto
+  - Lunes 5 de Agosto - 20:30hs: Cierre de ventana de corrección
+  - Martes 6, Miércoles 7 y Jueves 8: Defensa de Proyecto Integrador
+  - Viernes 9 - 22:30 a 23:00hs: Ventana de ingreso al Checkpoint
 
 ## TypeScript
 
