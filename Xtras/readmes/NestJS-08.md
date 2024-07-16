@@ -22,3 +22,10 @@ npm install bcrypt
 ```bash
 npm install --save @nestjs/jwt
 ```
+## Bcrypt - Registro y Encriptado de Contraseña
+
+<img src="./assets/08-01.png" style="margin: 20px 0 60px 0">
+
+## JWT y Autenticación
+
+<img src="./assets/08-02.png" style="margin: 20px 0 60px 0">
